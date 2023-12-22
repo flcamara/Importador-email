@@ -8,6 +8,8 @@ NodeJS >= 18.17.0
 
 Certifique-se de criar seu .env com as informações necessárias.
 
+Para esse projeto foi utilizado o Mailtrap.
+
 ## Instalação 🖥️
 
 ```bash
